@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const SignInContainer = styled.div`
-    width: 389px;
+    width: 380px;
     display: flex;
     flex-direction: column;
 `;
@@ -11,6 +11,6 @@ export const SignInTitle = styled.h2`
 `;
 
 export const ButtonsBarContainer = styled.div`
-    isplay: flex;
-    justify-content: space-between;d
+    display: flex;
+    justify-content: space-between;
 `;
